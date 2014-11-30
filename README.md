@@ -1,4 +1,4 @@
-ex-syntax
+vim-emax
 =========
 
-Syntax highlight improvements for Vim.
+EMAX colorscheme & C/C++ syntax highlight improvements for Vim.
